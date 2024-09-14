@@ -12,3 +12,5 @@ Learning in the Belajar Dasar Git dengan GitHub class. (Progress 65%)
 - Belajar dasar-dasar Git dan GitHub, seperti struktur repository, tipe data, commit, branch, push, dan pull.
 - Belajar alur kontrol dalam Git, seperti merge dan rebase.
 - Belajar alat kolaborasi GitHub, seperti pull request, issues, dan forking.
+
+Halo nama saya **Mohammad Reihan Zakya Alawi** saya ingin pencoba *pull request* mohon diterima ya
